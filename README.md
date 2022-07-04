@@ -4,5 +4,4 @@
 
 <a href="https://github.com/blackle/blamscamp">https://github.com/blackle/blamscamp</a>
 <a href="https://github.com/fluffy-critter/pyBlamscamp">https://github.com/fluffy-critter/pyBlamscamp</a>
-
 (just in case)</code></pre>
