@@ -84,6 +84,7 @@ archive (i guess?)/repository of code and programs i use for my noise project **
 * http://musicalgorithms.org/4.1/app
 * https://github.com/csteinmetz1/ai-audio-startups
 * https://github.com/blackle/blamscamp
+* https://github.com/fluffy-critter/pyBlamscamp
 
 ## repositories
 * https://github.com/cirlabs/miditime
