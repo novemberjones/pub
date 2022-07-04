@@ -1,5 +1,5 @@
-```
-# pub
+<pre><code>
+<em># pub</em>
 
-https://keybase.pub/novemberjones/pf
-```
+<a href="https://keybase.pub/novemberjones/pf">https://keybase.pub/novemberjones/pf</a>
+</code></pre>
