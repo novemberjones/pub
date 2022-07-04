@@ -1,6 +1,6 @@
 ## SOLO HEXARCH
 
-**could also work with the trauma (or CUNT)**
+**cwuld also work with the trauma (or CUNT)**
 ```
 HEXACRH -> MT-2 -> RV-3 - OUT 1 -> MANIC -> MIXER 1
                     |
