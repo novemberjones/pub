@@ -2,7 +2,7 @@
 <strong>pub
 
 docs: pedal mods and noise setups
-img: images used in my various </strong>
+img: images used in my github pages sites</strong>
 =end</em>
 
 <a href="https://keybase.pub/novemberjones/pf">https://keybase.pub/novemberjones/pf</a>
