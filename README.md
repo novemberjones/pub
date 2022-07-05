@@ -1,9 +1,9 @@
-<pre><code><em>=begin
-<strong>pub
+<pre><code>=begin
+<em><strong>#!/novemberjones/pub
 
 docs: pedal mods and noise setups
-img: images used in my github pages sites</strong>
-=end</em>
+img: images used in my github pages sites</strong></em>
+=end
 
 <a href="https://keybase.pub/novemberjones/pf">https://keybase.pub/novemberjones/pf</a>
 
